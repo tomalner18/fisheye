@@ -1,0 +1,333 @@
+PerDs:
+  ALL:
+    Blockout: 0.9778698819392112
+    mAP:
+      AP:
+        all: 0.09238550472512075
+        bicycle and person: 0.0
+        car: 0.2901072695853978
+        motorcycle and person: 0.0
+        person: 0.07943474931508518
+      AP50:
+        all: 0.20761700862193042
+        bicycle and person: 0.0
+        car: 0.5901822001900465
+        motorcycle and person: 0.0
+        person: 0.24028583429767528
+      AP75:
+        all: 0.07194004036181914
+        bicycle and person: 0.0
+        car: 0.25821991793609655
+        motorcycle and person: 0.0
+        person: 0.029540243511180047
+      APl:
+        all: 0.12170731123627992
+        bicycle and person: 0.0
+        car: 0.4492931107258206
+        motorcycle and person: 0.0
+        person: 0.037536134219298994
+      APm:
+        all: 0.12288751227035691
+        bicycle and person: 0.0
+        car: 0.37674552838681274
+        motorcycle and person: 0.0
+        person: 0.11480452069461489
+      APs:
+        all: 0.04842909310035159
+        bicycle and person: 0.0
+        car: 0.1407701727365188
+        motorcycle and person: 0.0
+        person: 0.05294619966488759
+      ARl:
+        all: 0.14779875204643114
+        bicycle and person: 0.0
+        car: 0.5243402832209855
+        motorcycle and person: 0.0
+        person: 0.06685472496473907
+      ARm:
+        all: 0.18164207284374365
+        bicycle and person: 0.0
+        car: 0.456377736279697
+        motorcycle and person: 0.0
+        person: 0.27019055509527756
+      ARmax1:
+        all: 0.027571026977202456
+        bicycle and person: 0.0
+        car: 0.06461607325308708
+        motorcycle and person: 0.0
+        person: 0.04566803465572275
+      ARmax10:
+        all: 0.11291126409435889
+        bicycle and person: 0.0
+        car: 0.29750308951317056
+        motorcycle and person: 0.0
+        person: 0.15414196686426512
+      ARmax100:
+        all: 0.14999465977201237
+        bicycle and person: 0.0
+        car: 0.37587163194410655
+        motorcycle and person: 0.0
+        person: 0.22410700714394277
+      ARs:
+        all: 0.11064079442849198
+        bicycle and person: 0.0
+        car: 0.24430935794471315
+        motorcycle and person: 0.0
+        person: 0.19825381976925477
+      Thr:
+        all: 0.6289245523512363
+        bicycle and person: .nan
+        car: 0.6316760579744974
+        motorcycle and person: .nan
+        person: 0.6253869022641864
+    mAPDist:
+      '0.5': 0.0
+  bdd_dawn:
+    Blockout: 0.9810818799881762
+    mAP:
+      AP:
+        all: 0.10222865837105666
+        bicycle and person: 0.0
+        car: 0.3171392480255149
+        motorcycle and person: 0.0
+        person: 0.09177538545871165
+      AP50:
+        all: 0.2197688171554671
+        bicycle and person: 0.0
+        car: 0.6135933394237074
+        motorcycle and person: 0.0
+        person: 0.26548192919816094
+      AP75:
+        all: 0.08518002514398
+        bicycle and person: 0.0
+        car: 0.29754951680492775
+        motorcycle and person: 0.0
+        person: 0.04317058377099217
+      APl:
+        all: 0.17548259658325238
+        bicycle and person: 0.0
+        car: 0.5063108466316687
+        motorcycle and person: -1.0
+        person: 0.020136943118088602
+      APm:
+        all: 0.13660180445614784
+        bicycle and person: 0.0
+        car: 0.42385103626188075
+        motorcycle and person: 0.0
+        person: 0.1225561815627106
+      APs:
+        all: 0.05584625108681164
+        bicycle and person: 0.0
+        car: 0.15006912280248505
+        motorcycle and person: 0.0
+        person: 0.07331588154476149
+      ARl:
+        all: 0.20921334161576421
+        bicycle and person: 0.0
+        car: 0.5718707940780619
+        motorcycle and person: -1.0
+        person: 0.05576923076923076
+      ARm:
+        all: 0.19098017004378373
+        bicycle and person: 0.0
+        car: 0.4946583850931677
+        motorcycle and person: 0.0
+        person: 0.2692622950819672
+      ARmax1:
+        all: 0.02852488230299216
+        bicycle and person: 0.0
+        car: 0.06588860642477468
+        motorcycle and person: 0.0
+        person: 0.04821092278719398
+      ARmax10:
+        all: 0.11904341286286738
+        bicycle and person: 0.0
+        car: 0.3160041599260458
+        motorcycle and person: 0.0
+        person: 0.16016949152542373
+      ARmax100:
+        all: 0.15568651074995746
+        bicycle and person: 0.0
+        car: 0.39525075109775826
+        motorcycle and person: 0.0
+        person: 0.22749529190207157
+      ARs:
+        all: 0.1136597607984255
+        bicycle and person: 0.0
+        car: 0.24812563323201622
+        motorcycle and person: 0.0
+        person: 0.20651340996168582
+      Thr:
+        all: 0.5963290413220723
+        bicycle and person: .nan
+        car: 0.616535872220993
+        motorcycle and person: .nan
+        person: 0.5660187949736913
+    mAPDist:
+      '0.5': 0.0
+  bdd_day:
+    Blockout: 0.9726213680250215
+    mAP:
+      AP:
+        all: 0.10184067278732295
+        bicycle and person: 0.0
+        car: 0.32171485777301784
+        motorcycle and person: 0.0
+        person: 0.08564783337627394
+      AP50:
+        all: 0.22171401900532292
+        bicycle and person: 0.0
+        car: 0.6254393144252387
+        motorcycle and person: 0.0
+        person: 0.26141676159605304
+      AP75:
+        all: 0.08238877053677951
+        bicycle and person: 0.0
+        car: 0.29965406673718437
+        motorcycle and person: 0.0
+        person: 0.029901015409933642
+      APl:
+        all: 0.13743285735579966
+        bicycle and person: 0.0
+        car: 0.5009160010732686
+        motorcycle and person: 0.0
+        person: 0.048815428349929975
+      APm:
+        all: 0.1377333920197951
+        bicycle and person: 0.0
+        car: 0.4242256489313914
+        motorcycle and person: 0.0
+        person: 0.12670791914778895
+      APs:
+        all: 0.05362250192555032
+        bicycle and person: 0.0
+        car: 0.161415349620136
+        motorcycle and person: 0.0
+        person: 0.05307465808206528
+      ARl:
+        all: 0.16470789330019003
+        bicycle and person: 0.0
+        car: 0.5719950551540509
+        motorcycle and person: 0.0
+        person: 0.08683651804670914
+      ARm:
+        all: 0.19544394599313367
+        bicycle and person: 0.0
+        car: 0.498006534400303
+        motorcycle and person: 0.0
+        person: 0.2837692495722317
+      ARmax1:
+        all: 0.027671771450976424
+        bicycle and person: 0.0
+        car: 0.0647370315150892
+        motorcycle and person: 0.0
+        person: 0.0459500542888165
+      ARmax10:
+        all: 0.11986797247863182
+        bicycle and person: 0.0
+        car: 0.3204925196647987
+        motorcycle and person: 0.0
+        person: 0.15897937024972858
+      ARmax100:
+        all: 0.15842088217889425
+        bicycle and person: 0.0
+        car: 0.4017291313214402
+        motorcycle and person: 0.0
+        person: 0.23195439739413679
+      ARs:
+        all: 0.11503846704388374
+        bicycle and person: 0.0
+        car: 0.2590351074182199
+        motorcycle and person: 0.0
+        person: 0.20111876075731497
+      Thr:
+        all: 0.6233557630330324
+        bicycle and person: .nan
+        car: 0.6221343808703952
+        motorcycle and person: .nan
+        person: 0.6249261115278516
+    mAPDist:
+      '0.5': 0.0
+  bdd_night:
+    Blockout: 0.9851733259083948
+    mAP:
+      AP:
+        all: 0.07120726403606778
+        bicycle and person: 0.0
+        car: 0.2294084134793498
+        motorcycle and person: 0.0
+        person: 0.05542064266492128
+      AP50:
+        all: 0.17158480194319958
+        bicycle and person: 0.0
+        car: 0.5231238523911881
+        motorcycle and person: 0.0
+        person: 0.1632153553816102
+      AP75:
+        all: 0.05065084510365588
+        bicycle and person: 0.0
+        car: 0.17867353464549476
+        motorcycle and person: 0.0
+        person: 0.023929845769128783
+      APl:
+        all: 0.09324215679612997
+        bicycle and person: 0.0
+        car: 0.3592815442898629
+        motorcycle and person: 0.0
+        person: 0.013687082894656985
+      APm:
+        all: 0.09252005514259846
+        bicycle and person: 0.0
+        car: 0.29096794153938355
+        motorcycle and person: 0.0
+        person: 0.07911227903101033
+      APs:
+        all: 0.03359830812752993
+        bicycle and person: 0.0
+        car: 0.09725605651097562
+        motorcycle and person: 0.0
+        person: 0.03713717599914411
+      ARl:
+        all: 0.11588986594931842
+        bicycle and person: 0.0
+        car: 0.4442046250875965
+        motorcycle and person: 0.0
+        person: 0.01935483870967742
+      ARm:
+        all: 0.15455448278334172
+        bicycle and person: 0.0
+        car: 0.38586903003446577
+        motorcycle and person: 0.0
+        person: 0.2323489010989011
+      ARmax1:
+        all: 0.026985758021831847
+        bicycle and person: 0.0
+        car: 0.06411073825503356
+        motorcycle and person: 0.0
+        person: 0.04383229383229383
+      ARmax10:
+        all: 0.09799955786323236
+        bicycle and person: 0.0
+        car: 0.25551174496644297
+        motorcycle and person: 0.0
+        person: 0.1364864864864865
+      ARmax100:
+        all: 0.13170118589162214
+        bicycle and person: 0.0
+        car: 0.3289876957494407
+        motorcycle and person: 0.0
+        person: 0.19781704781704781
+      ARs:
+        all: 0.1000100035975012
+        bicycle and person: 0.0
+        car: 0.21595641310383124
+        motorcycle and person: 0.0
+        person: 0.18408360128617363
+      Thr:
+        all: 0.6575135950531278
+        bicycle and person: .nan
+        car: 0.6246181316673756
+        motorcycle and person: .nan
+        person: 0.7013742129007975
+    mAPDist:
+      '0.5': 0.0

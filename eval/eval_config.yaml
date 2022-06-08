@@ -1,0 +1,7 @@
+# The experiment names correspond to the experiment folder names
+experiments:
+  - all # Set all to include all experiments
+
+# Give the "nested" yaml path to the metrics that you would like to visualise
+metrics:
+  - ["mAP", "AP"]
